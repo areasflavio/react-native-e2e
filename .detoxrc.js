@@ -84,4 +84,7 @@ module.exports = {
       app: 'android.release',
     },
   },
+  artifacts: {
+    rootDir: './e2e/artifacts',
+  },
 };
